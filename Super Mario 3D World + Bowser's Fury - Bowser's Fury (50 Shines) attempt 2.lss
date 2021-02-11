@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Super Mario 3D World + Bowser's Fury</GameName>
@@ -13,46 +13,19 @@
   </Metadata>
   <Offset>00:00:00</Offset>
   <AttemptCount>0</AttemptCount>
-  <AttemptHistory>
-    <Attempt id="1" started="02/08/2021 14:55:44" isStartedSynced="True" ended="02/08/2021 15:05:00" isEndedSynced="True">
-      <PauseTime>00:01:21.9750000</PauseTime>
-    </Attempt>
-    <Attempt id="2" started="02/08/2021 15:05:09" isStartedSynced="True" ended="02/08/2021 15:10:16" isEndedSynced="True" />
-    <Attempt id="3" started="02/08/2021 15:58:32" isStartedSynced="True" ended="02/08/2021 16:02:38" isEndedSynced="True" />
-    <Attempt id="4" started="02/08/2021 16:06:24" isStartedSynced="True" ended="02/08/2021 16:07:13" isEndedSynced="True" />
-    <Attempt id="5" started="02/08/2021 16:07:17" isStartedSynced="True" ended="02/08/2021 17:43:05" isEndedSynced="True">
-      <PauseTime>00:00:45.0190000</PauseTime>
-    </Attempt>
-  </AttemptHistory>
+  <AttemptHistory />
   <Segments>
     <Segment>
       <Name>Opening</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:53.9370000</RealTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:53.9370000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="1">
-          <RealTime>00:01:26.7130000</RealTime>
-        </Time>
-        <Time id="2">
-          <RealTime>00:01:00.4030000</RealTime>
-        </Time>
-        <Time id="3">
-          <RealTime>00:00:59.8160000</RealTime>
-        </Time>
-        <Time id="5">
-          <RealTime>00:00:53.9370000</RealTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Scamper Shores: Make The Lighthouse Shine</Name>
+      <Name>Scamper Shores: Make the Lighthouse Shine</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -70,7 +43,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Flaptrap Fort: Bully The Cat Bullies</Name>
+      <Name>Flaptrap Fortress: Make the Lighthouse Shine</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -79,7 +52,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Flaptrap Fort: Five Cat Shine Shards</Name>
+      <Name>Flaptrap Fortress: Five Cat Shine Shards</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -88,7 +61,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Fight 1.</Name>
+      <Name>Pounce Bounce Island: Make the Lighthouse Shine</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -97,7 +70,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Lakeside Giga Bell: Lost Kitten By The Shore</Name>
+      <Name>1. Fight</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -106,7 +79,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Pounce Bounce Island: Five Cat Shine Shards</Name>
+      <Name>Scamper Shores: Fury Shadow by the Shore</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -115,7 +88,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Pounce Bounce Island: Make The Lighthouse shine</Name>
+      <Name>Lakeside Giga Bell: Lost Kitten by the Shore</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -124,7 +97,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Lakeside: Climb to the Shine</Name>
+      <Name>Pounce Bounce Island: Hurry! Jump High, Jump Fast!</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -142,52 +115,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Scamper Shores: Blast the Fury Blocks</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Scamper Shores: Fury Shadow By The Shore</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Pounce Bounce Island: Hurry! Jump High, Jump Fast</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Scamper Shores: Key to the Cat Shine</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Flaptrap Fortress: Show's Over, Car Magikoopas</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Fight 2.</Name>
+      <Name>Pounce Bounce Island: Five Cat Shine Shards</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -205,7 +133,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Flaptrap Fortress: Blast the Fury Blocks</Name>
+      <Name>Flaptrap Fortress: Show's over Cat Magikoopas</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -214,7 +142,16 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Slipskate Slope: Five Cat Shine Shareds</Name>
+      <Name>Ruins: Cold Cove Combat</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Slipskate Slope: Five Cat Shine Shards</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -224,24 +161,6 @@
     </Segment>
     <Segment>
       <Name>Slipskate Slope: Make the Lighthouse Shine</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Clawswipe Colosseum: Clash with Cat Boom Boom</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Clawswipe Colosseum: Five Cat Shine Shards</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -268,7 +187,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Fight 3.</Name>
+      <Name>Scamper Shores: Key to the Cat Shine</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -277,7 +196,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Pounce Bounce Island: Blast The Fury Blocks</Name>
+      <Name>2. Fight</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -286,61 +205,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Lakeside: Hurry! Dash and Dive!</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Crisp Climb Caslte: Go with the Floe</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Crisp Climb Castle: Slippery Skirmish</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Crisp Climb Castle: Five Cat Shine Shards</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Crisp Climb Castle: Make the Lighthouse Shine</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Lakeside: Hurry! Slide through the Sky!</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Lakeside: Cold Cove Combat</Name>
+      <Name>Scamper Shores: Blast the Fury Blocks</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -358,7 +223,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Clawswipe Colosseum: Cat Pom Pom's Counterattack</Name>
+      <Name>Clawswipe Colosseum: Clash with Cat Boom Boom</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -376,7 +241,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Clawswipe Colosseum: Final Bout with Cat Boom Boom</Name>
+      <Name>Trickity Tower: So Close yet so Far</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -385,7 +250,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Trickity Tower: So Close Yet So Far</Name>
+      <Name>Clawswipe Colosseum: Cat Pom Pom's Counterattack</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -394,25 +259,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Trickity Tower: Five Cat Shine Shards</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Lakeside: Gazing Down at the Islands</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Lakeside Giga Bell: Blast the Fury Blocks</Name>
+      <Name>Clawswipe Colosseum: Five Cat Shine Shards</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -430,6 +277,51 @@
       <SegmentHistory />
     </Segment>
     <Segment>
+      <Name>Ruins: Go with the Floe</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>3. Fight</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Clawswipe Colosseum: Final Bout with Cat Boom Boom</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Clawswipe Colosseum: Blast the Fury Blocks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Trickity Tower: Hurry! Watch Your Step!</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>Trickity Tower: Blast the Fury Blocks</Name>
       <Icon />
       <SplitTimes>
@@ -439,7 +331,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Lakeside: Shoreside Rabbit Plays Tag</Name>
+      <Name>Ruins: Slipper Skirmish</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -448,7 +340,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Fight 4.</Name>
+      <Name>Crisp Climb Tower: Five Cat Shine Shards</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -457,7 +349,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Pipe Path Tower: Five Cat Shine Shards</Name>
+      <Name>Crisp Climb Tower: Make the Lighthouse Shine</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -466,7 +358,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Pipe Path Tower: Make the Lighthouse Shine</Name>
+      <Name>Ruins: Hurry! Slide through the Sky!</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -475,7 +367,61 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Risky Whisker Island: Fury Shadow Hops to It</Name>
+      <Name>Ruins: Blast the Fury Blocks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Wasteland: Surprise Prizefight</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Wasteland: Jump and Thump in the Clouds</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Wasteland: On the Floodgate's Edge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Wasteland: Footprint Free-for-all</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Risky Whisker Island: Fury Shadow Hops to it</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>4. Fight</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -493,7 +439,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Mount Magmeow: Blast the Fury Blocks</Name>
+      <Name>Risky Whisker Island: Blast the Fury Blocks</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -502,7 +448,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Mount Magmeow: Five Cat Shine Shards</Name>
+      <Name>Wasteland: Hurry! Climb the Falls!</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -511,7 +457,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Molunt Magmeow: Back Off, Cat Prince Bully!</Name>
+      <Name>Lakeside: Shoreside Rabbit Plays Tag</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -520,7 +466,25 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Fight 5.</Name>
+      <Name>Pounce Bounce Island: Blast the Fury Blocks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Flaptrap Fortress: Blast the Fury Blocks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Final Fight.</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
